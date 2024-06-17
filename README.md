@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Clouds inside the Glass
 
-## Getting Started
+This project is a demo created based on George Hastings' Unicorn tutorial. I would like to extend my heartfelt thanks to George for generously providing me with the valuable opportunity to participate in the beta testing. 
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Unicorn is truly a masterpiece. After using it, I immediately fell in love with its capabilities. Without requiring deep knowledge of webGL code, Unicorn enables you to create stunning 3D effects in a short amount of time. It also inspires you to explore and fall in love with webGL beyond Unicorn.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Ease of Use**: No need for complex webGL coding.
+- **Efficient Workflow**: Create amazing 3D animations quickly and efficiently.
+- **Inspiration Boost**: Encourages further exploration and creativity in webGL.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Gratitude
 
-## Learn More
+A special thanks to George Hastings for his generosity and support. The beta testing experience has been incredibly educational, and I look forward to providing detailed feedback to help improve Unicorn even further.
 
-To learn more about Next.js, take a look at the following resources:
+## Feedback
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+I will actively learn and use Unicorn, aiming to create breathtaking webGL effects. My feedback from this beta testing period will be provided to help refine and enhance the tool. 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**Thank you once again, George, for this incredible opportunity.**
 
-## Deploy on Vercel
+Happy Coding!
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Lewis
